@@ -1,5 +1,4 @@
 <!--
-<!--타이틀 부분-->
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Lee%20Young%20Jun&fontSize=90" />
 </div>
